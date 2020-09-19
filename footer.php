@@ -2,7 +2,7 @@
 		<div class="col-md-12">
 			<div class="alert alert-dismissable alert-primary">
           <h5>MUDA... BERKARYA DAN MENGINSPIRASI</h5>
-          <strong>Design By : juliaastikap3</strong> 
+          <strong>Design By : salnuraqidah</strong> 
             <br/> Allah SWT berfirman:
             <br/>فَاِ نَّ مَعَ الْعُسْرِ يُسْرًا ۙ 
 "Maka sesungguhnya bersama kesulitan ada kemudahan,"
